@@ -16,5 +16,5 @@ MonoBehaviour:
   name: Average
   dropAmount: 3
   hp: 15
-  speed: 10
-  attack: 10
+  speed: 5
+  attack: 5

@@ -11,16 +11,18 @@ using UnityEngine;
 
 /*
  * Coins
+ * team HP
  * characters owned 
  * team slot 1 character
  * team slot 2 chracter
  * team slot 3 character
- * 
  */
 
 
 public class BasicBehaviors : MonoBehaviour
 {
     [SerializeField] private int playerCoins = 4;
+    [SerializeField] private int teamHealth = 20;
+
 
 }
