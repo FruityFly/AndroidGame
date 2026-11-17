@@ -1,16 +1,15 @@
 using UnityEngine;
 
+/*
+ * Kafka Suenishi
+ * 11/17/26
+ * handles refreshing and buying in the shop
+ */
+
+//need a pool of characters... dictionary?
+
+
 public class Shop : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
 }
