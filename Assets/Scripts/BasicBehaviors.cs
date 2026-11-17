@@ -9,7 +9,14 @@ using UnityEngine;
  * contains player info 
  */
 
-
+/*
+ * Coins
+ * characters owned 
+ * team slot 1 character
+ * team slot 2 chracter
+ * team slot 3 character
+ * 
+ */
 
 
 public class BasicBehaviors : MonoBehaviour
