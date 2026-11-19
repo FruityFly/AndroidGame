@@ -10,6 +10,14 @@ using UnityEngine;
 
 //current health
 
+
+public enum Enemies
+{
+    weak, average, strong
+}
+
+
+
 public class Enemy : MonoBehaviour
 {
   

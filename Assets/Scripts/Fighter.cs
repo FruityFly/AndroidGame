@@ -8,6 +8,14 @@ using UnityEngine.InputSystem;
  * manages fighter behavior in shop and battle
  */
 
+public enum Fighters
+{
+    peasant, knight, king, god
+}
+
+
+
+
 
 public class Fighter : MonoBehaviour
 {

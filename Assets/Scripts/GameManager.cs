@@ -20,12 +20,16 @@ using UnityEngine;
 // fighter 1 = get team slot 1 sprite
 //if (character sprite) matches?? eget combat? idk sleeppy...
 
+
+//for every enemy remaining / team HP - 1
+
 //dont destroy on load
+
 
 
 
 public class GameManager : MonoBehaviour
 {
     [SerializeField] private int playerCoins = 4;
-    [SerializeField] private int teamHealth = 20;
+    [SerializeField] private int teamHealth = 5;
 }

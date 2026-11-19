@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0304c1c71b9b824ca62947b2bbebb2e, type: 3}
   m_Name: King
   m_EditorClassIdentifier: Assembly-CSharp::Character_SO
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: b84e1202a640ca2448d51a7156a3aa27, type: 3}
   name: King
   cost: 5
   hp: 10
